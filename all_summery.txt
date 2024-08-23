@@ -1,0 +1,3 @@
+project 1 :> student  management system (using vanila javascript);
+
+project 2:> countdown timer (using vanila javascript);
